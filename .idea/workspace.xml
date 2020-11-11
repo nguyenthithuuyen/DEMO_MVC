@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="187fc630-4f60-4428-97d6-948926be184b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PDO/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/ProductDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckPassword" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckPassword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle_Cylinder" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle_Cylinder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Colorable" beforeDir="false" afterPath="$PROJECT_DIR$/../Colorable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemicalBinary" beforeDir="false" afterPath="$PROJECT_DIR$/../DemicalBinary" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fan" beforeDir="false" afterPath="$PROJECT_DIR$/../Fan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FutureValueCalculator" beforeDir="false" afterPath="$PROJECT_DIR$/../FutureValueCalculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InsertionSort" beforeDir="false" afterPath="$PROJECT_DIR$/../InsertionSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyList" beforeDir="false" afterPath="$PROJECT_DIR$/../MyList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point2D_Point3D" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2D_Point3D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point_MoveablePoint" beforeDir="false" afterPath="$PROJECT_DIR$/../Point_MoveablePoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegexPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../RegexPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resizeable" beforeDir="false" afterPath="$PROJECT_DIR$/../Resizeable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectionSort" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectionSort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shape" beforeDir="false" afterPath="$PROJECT_DIR$/../Shape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StopWatch" beforeDir="false" afterPath="$PROJECT_DIR$/../StopWatch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangle_Class" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangle_Class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VadidateClassRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../VadidateClassRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VadidatePhoneNumberRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../VadidatePhoneNumberRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidateAccountRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidateAccountRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidateEmailRegex" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidateEmailRegex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_aggregation" beforeDir="false" afterPath="$PROJECT_DIR$/../array_aggregation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bathople" beforeDir="false" afterPath="$PROJECT_DIR$/../bathople" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../delete" beforeDir="false" afterPath="$PROJECT_DIR$/../delete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dskhachhang" beforeDir="false" afterPath="$PROJECT_DIR$/../dskhachhang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figure" beforeDir="false" afterPath="$PROJECT_DIR$/../figure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout" beforeDir="false" afterPath="$PROJECT_DIR$/../layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lexicon_php" beforeDir="false" afterPath="$PROJECT_DIR$/../lexicon_php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locDSKH" beforeDir="false" afterPath="$PROJECT_DIR$/../locDSKH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login" beforeDir="false" afterPath="$PROJECT_DIR$/../login" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxximum" beforeDir="false" afterPath="$PROJECT_DIR$/../maxximum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minximum" beforeDir="false" afterPath="$PROJECT_DIR$/../minximum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../money" beforeDir="false" afterPath="$PROJECT_DIR$/../money" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numbertoletters" beforeDir="false" afterPath="$PROJECT_DIR$/../numbertoletters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack" beforeDir="false" afterPath="$PROJECT_DIR$/../stack" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k8hwJHUSjlTf1HQlA1pduOEIBy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="187fc630-4f60-4428-97d6-948926be184b" name="Default Changelist" comment="" />
+      <created>1605088362589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605088362589</updated>
+      <workItem from="1605088363599" duration="4441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="140" width="441" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1605089190227">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="332" y="140" width="441" height="576" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1605089190227" />
+    <state x="339" y="177" width="351" height="503" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605089267326">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="339" y="177" width="351" height="503" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605089267326" />
+    <state x="770" y="273" width="481" height="568" key="NewPhpClassDialog" timestamp="1605090107268">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="770" y="273" width="481" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605090107268" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605090357909">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605090357909" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1605088395710">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1605088395710" />
+    <state x="660" y="252" key="run.anything.popup" timestamp="1605090476601">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="252" key="run.anything.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1605090476601" />
+  </component>
+</project>
