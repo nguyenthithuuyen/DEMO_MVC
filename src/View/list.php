@@ -11,28 +11,36 @@ echo '<pre>';
     <title>Document</title>
 </head>
 <body>
+
+<a href="index.php?page=add">add</a>
 <table border="1px">
 
     <tr>
         <th>STT</th>
-        <th>product code</th>
-        <th>product name</th>
-        <th>price</th>
-        <th>product description</th>
+        <th>id</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email</th>
+        <th>Sinh nhat</th>
     </tr>
     <?php foreach ($all
 
-    as $key => $product): ?>
+    as $key => $user): ?>
     <tr>
         <td><?php echo $key ?></td>
-        <td><?php echo $product->getProductCode() ?></td>
-        <td><?php echo $product->getProductName() ?></td>
-        <td><?php echo $product->getPrice() ?></td>
-        <td><?php echo $product->getProductDescription() ?></td>
+        <td><?php echo $user->getId() ?></td>
+        <td><?php echo $user->getFirstName() ?></td>
+        <td><?php echo $user->getLastName() ?></td>
+        <td><?php echo $user->getEmail() ?></td>
+        <td><?php echo $user->getBirthday() ?></td>
+        <td> <a href="index.php?page=update&id=<?php echo $user->getId()?>">Update</a>
+        <td> <a onclick="return confirm('DO YOU REALLY WANT TO DELETE???') " href="index.php?page=delete&id=<?php echo $user->getId()?>">Delete</a>
+        </td>
     </tr>
     <?php endforeach;
 
     ?>
+
 </table>
 </body>
 </html>

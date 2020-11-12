@@ -25,7 +25,6 @@ class ProductDB
             array_push($arr,$product);
         }
         return ($arr);
-
-
     }
+
 }

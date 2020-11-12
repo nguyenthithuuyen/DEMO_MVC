@@ -21,13 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="187fc630-4f60-4428-97d6-948926be184b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../PDO/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/ProductDB.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/list.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BubbleSort" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort" afterDir="false" />
@@ -55,6 +48,10 @@
       <change beforePath="$PROJECT_DIR$/../array_aggregation" beforeDir="false" afterPath="$PROJECT_DIR$/../array_aggregation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bathople" beforeDir="false" afterPath="$PROJECT_DIR$/../bathople" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../delete" beforeDir="false" afterPath="$PROJECT_DIR$/../delete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo_MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo_MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/DBConnect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dskhachhang" beforeDir="false" afterPath="$PROJECT_DIR$/../dskhachhang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../figure" beforeDir="false" afterPath="$PROJECT_DIR$/../figure" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../inheritance" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance" afterDir="false" />
@@ -73,11 +70,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1k8hwJHUSjlTf1HQlA1pduOEIBy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,7 +91,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MVC" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -101,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605088362589</updated>
-      <workItem from="1605088363599" duration="4441000" />
+      <workItem from="1605088363599" duration="4930000" />
+      <workItem from="1605142177524" duration="3533000" />
     </task>
     <servers />
   </component>
@@ -118,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="332" y="140" width="441" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1605089190227">
@@ -128,6 +133,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="339" y="177" width="351" height="503" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605089267326" />
+    <state x="1241" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605152759172">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1241" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1605152759172" />
     <state x="770" y="273" width="481" height="568" key="NewPhpClassDialog" timestamp="1605090107268">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
